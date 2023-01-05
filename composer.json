@@ -6,7 +6,7 @@
   },
   "require-dev": {
     "brainmaestro/composer-git-hooks": "^2.6",
-    "dealerdirect/phpcodesniffer-composer-installer": "^0.7.0",
+    "dealerdirect/phpcodesniffer-composer-installer": "^1.0.0",
     "humanmade/psalm-plugin-wordpress": "^2.0",
     "php-stubs/generator": "^0.6.0",
     "php-stubs/woocommerce-stubs": "^5.2",
